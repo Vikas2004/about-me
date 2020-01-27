@@ -1,2 +1,2 @@
 # about-me
-This is an assignment to tell about myself.
+This is s simple repo created to learn more about using git commands both locally and on cloud. 
