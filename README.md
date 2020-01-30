@@ -13,6 +13,12 @@ This is a simple repo created to learn more about using how git commands work bo
 * Next we need to install **git** to our local machine which can be done through choclecty, but we need other tools to be installed so as to work swiftly on git. 
 
 
+## Required Tools:
+
+* Tortoise Git
+* Putty
+* Editor(Here we have Visual Studio Code and Notepadplusplus)
+* 
 This is my favourite Picture.
 
 
