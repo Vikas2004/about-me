@@ -2,7 +2,7 @@
 
 ## Repository Links
 
-* [Repository](https://github.com/Vikas2004/about-me)
+* [Source Repository](https://github.com/Vikas2004/about-me)
 * [Hosted Web Page](https://vikas2004.github.io/about-me/)
 
 ## About:
@@ -34,6 +34,8 @@ This is a simple repo created to learn more about using how git commands work bo
 
 - **Name** : *Vikas Baswapuram*
 - **Program** : *Applied Computer Science* 
+
+
 This is my favourite Picture.
 
 ![Northwest](https://www.nwmissouri.edu/facts/image/admin-building.jpg)
