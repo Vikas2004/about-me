@@ -18,7 +18,7 @@ This is a simple repo created to learn more about using how git commands work bo
 * Tortoise Git
 * Putty
 * Editor(Here we have Visual Studio Code and Notepadplusplus)
-* 
+* Git
 This is my favourite Picture.
 
 
