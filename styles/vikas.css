@@ -2,7 +2,8 @@
     text-align: center;
 }
 
-
+body{background-color: grey;}
+h1{background-color: grey;}
 .topnav {
     background-color:white;
     overflow: hidden;
