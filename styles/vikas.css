@@ -1,0 +1,103 @@
+#header{
+    text-align: center;
+}
+.topnav {
+    background-color:white;
+    overflow: hidden;
+  }
+  /* Style the links inside the navigation bar */
+.topnav a {
+    float: center;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 40px;
+  }
+  @font-face{
+    font-family: 'Roboto', sans-serif;
+  }
+*{
+  font-size: 30px;
+  font-family:'Roboto', sans-serif;
+}
+
+img{
+      border-radius: 50%;
+      width: 400;
+      
+  }
+  /* Change the color of links on hover */
+  
+  .topnav a:hover {
+    background-color:lightgreen;
+    color: black;
+  }
+  
+  /* Add a color to the active/current link */
+  .topnav a.active1{
+    background-color: blue;
+    color: white;
+  }
+
+  .topnav a.active2{
+    background-color: yellowgreen;
+    color:white;
+  }
+  
+
+  .topnav a.active3{
+    background-color: mediumseagreen;
+    color: white;
+  }
+
+
+
+  aside a {
+    display: inline-block;
+    padding: 10px 12px;
+    text-align: center;
+    border: 3px #454372 solid;
+    border-radius: 8px;
+    margin: 4px 2px;
+    text-decoration: none;
+    color: #454372;
+}
+
+form {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 20px;
+  flex-basis: 80%;
+  justify-content: left;
+}
+form label, input[type="text"], input[type="email"], textarea  {
+  flex-basis: 45%;
+  margin: 5px;
+  padding: 10px;
+  resize: none;
+}
+form label {
+  text-align: left;
+}
+form input[type="submit"] {
+  padding: 16px 75px;
+  border: none;
+  background-color:rgb(120, 241, 102);
+  text-align: left;
+  color: white;
+  text-transform: uppercase;
+  margin-left: 40%;
+}
+
+#contact_heading {
+  text-align: center;
+  flex-basis: 100%;
+}
+
+
+
+
+  #footer{
+      text-align: center;
+  }
