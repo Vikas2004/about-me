@@ -38,17 +38,20 @@ img{
   .topnav a.active1{
     background-color: blue;
     color: white;
+    align-content: space-around;
   }
 
   .topnav a.active2{
     background-color: yellowgreen;
     color:white;
+    align-content: space-around;
   }
   
 
   .topnav a.active3{
     background-color: mediumseagreen;
     color: white;
+    align-content: space-around;
   }
 
 
