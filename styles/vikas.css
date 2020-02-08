@@ -53,33 +53,7 @@ li a {
     font-size: 24px;
 }
   
-  /*
-  .topnav a:hover {
-    background-color:lightgreen;
-    color: black;
-  }
-  
-  
-  .topnav a.active{
-    background-color: blue;
-    color: white;
-    align-content: space-around;
-  }*/
-/*
-  .topnav a.active2{
-    background-color: yellowgreen;
-    color:white;
-    align-content: space-around;
-  }
-  
-
-  .topnav a.active3{
-    background-color: mediumseagreen;
-    color: white;
-    align-content: space-around;
-  }
-*/
-
+ 
 
   aside a {
     display: inline-block;
