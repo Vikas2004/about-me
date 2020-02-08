@@ -61,7 +61,7 @@ form {
   flex-wrap: wrap;
   padding: 20px;
   flex-basis: 80%;
-  justify-content: center;
+  justify-content: left;
 }
 form label, input[type="text"], input[type="email"], textarea  {
   flex-basis: 45%;
@@ -70,19 +70,19 @@ form label, input[type="text"], input[type="email"], textarea  {
   resize: none;
 }
 form label {
-  text-align: right;
+  text-align: left;
 }
 form input[type="submit"] {
   padding: 16px 75px;
   border: none;
   background-color: #2f2963;
-  text-align: center;
+  text-align: left;
   color: white;
   text-transform: uppercase;
   margin-left: 45%;
 }
 #contact_heading {
-  text-align: center;
+  text-align: left;
   flex-basis: 100%;
 }
   #footer{
