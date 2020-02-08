@@ -68,12 +68,13 @@ img{
     color: #454372;
 }
 
+
 form {
   display: flex;
   flex-wrap: wrap;
   padding: 20px;
   flex-basis: 80%;
-  justify-content: left;
+  justify-content: center;
 }
 form label, input[type="text"], input[type="email"], textarea  {
   flex-basis: 45%;
@@ -82,18 +83,17 @@ form label, input[type="text"], input[type="email"], textarea  {
   resize: none;
 }
 form label {
-  text-align: left;
+  text-align: right;
 }
 form input[type="submit"] {
   padding: 16px 75px;
   border: none;
-  background-color:rgb(120, 241, 102);
-  text-align: left;
+  background-color: #2f2963;
+  text-align: center;
   color: white;
   text-transform: uppercase;
-  margin-left: 40%;
+  margin-left: 45%;
 }
-
 #contact_heading {
   text-align: center;
   flex-basis: 100%;
