@@ -24,7 +24,7 @@
 }
 
 img{
-      border-radius: 50%;
+      border-radius: 70%;
       width: 400;
       
   }
@@ -44,11 +44,11 @@ img{
 nav ul li {
     display: inline-block;
     padding: 10px;
-    background-color: #ff946c;
+    background-color:black;
     flex-basis: 26%;
 }
 li a {
-    color: #9ebfb3;
+    color:white;
     text-decoration: none;
     font-size: 24px;
 }
