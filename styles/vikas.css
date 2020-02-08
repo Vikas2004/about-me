@@ -2,19 +2,7 @@
     text-align: center;
 }
 
-.topnav {
-    background-color:white;
-    overflow: hidden;
-  }
-  /* Style the links inside the navigation bar */
-.topnav a {
-    float: center;
-    color: white;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-    font-size: 40px;
-  }
+
   @font-face{
     font-family: 'Roboto', sans-serif;
   }
@@ -31,7 +19,7 @@ img{
   nav{
     width: 100%;
     display: flex;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Roboto', sans-serif;
 }
   nav .navLinks {
     flex-basis: 80%;
@@ -54,6 +42,7 @@ li a {
 }
   
  
+
 
   aside a {
     display: inline-block;
