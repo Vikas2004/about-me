@@ -28,20 +28,20 @@ img{
       width: 400;
       
   }
-  /* Change the color of links on hover */
+  
   
   .topnav a:hover {
     background-color:lightgreen;
     color: black;
   }
   
-  /* Add a color to the active/current link */
-  .topnav a.active1{
+  
+  .topnav a.active{
     background-color: blue;
     color: white;
     align-content: space-around;
   }
-
+/*
   .topnav a.active2{
     background-color: yellowgreen;
     color:white;
@@ -54,7 +54,7 @@ img{
     color: white;
     align-content: space-around;
   }
-
+*/
 
 
   aside a {
